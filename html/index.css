@@ -82,7 +82,12 @@ ul{
     background-color: none;
 }
 ul a{
-    color: black;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Acme', sans-serif;
+    font-size: larger;
+    text-shadow: 3px 3px rgb(7, 97, 94);
+   
 }
 ul a:hover{
     color: darkgrey;
